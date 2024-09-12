@@ -1,7 +1,8 @@
 algoritmo "primeiro"
 
 var
- msg: caractere
+ nome: caractere
 inicio
- msg <- "ola, Mundo!"
-Escreval(msg)
+ nome <- "Daniel"
+ Escreval ("muito prazer ", nome)
+fimalgoritmo

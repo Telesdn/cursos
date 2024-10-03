@@ -1,0 +1,2 @@
+lista = ['laranja','azul','verde' , 'black', 'aquamarine', 'money']
+print(lista[-4:-1])
